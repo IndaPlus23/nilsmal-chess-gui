@@ -1,2 +1,2 @@
 # nilsmal-chess-gui
-Chekkss GuI gO BrrRRrrRRrrR
+Chekkss gUI gO BrrRRrrRRrrR
